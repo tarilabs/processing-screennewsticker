@@ -1,0 +1,15 @@
+A simple Processing.org sketch to display news ticker similar to broadcasting television news channels.
+
+
+Functionalities
+===============
+Source file for the news is hard-coded as C:\news.txt.
+Each line of the source file for the news is considered a news.
+Creates a 50pixel height window with black background and white font displaying the news.
+This windows is set to be always on top.
+The news are displayed in cycles scrolling from right to left like a news ticker similar to broadcasting television news channels.
+
+
+Credits
+=======
+Largely inspired by the "Learn Processing" book's exercise 17.6
